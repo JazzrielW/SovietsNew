@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6983],{3001:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\xbfQu\xe9 es este lugar?","permalink":"/blogsecreto/Sereto","unlisted":false,"date":"2025-07-07T00:00:00.000Z"}]}')}}]);

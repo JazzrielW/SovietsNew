@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SOVIETS Blog</title>
+        <link>https://www.soviets-ags.org/blogsecreto</link>
+        <description>SOVIETS Blog</description>
+        <lastBuildDate>Mon, 07 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[¿Qué es este lugar?]]></title>
+            <link>https://www.soviets-ags.org/blogsecreto/Sereto</link>
+            <guid>https://www.soviets-ags.org/blogsecreto/Sereto</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Realmente no hay una buena explicación de qué se supone que irá en este lugar.]]></description>
+            <content:encoded><![CDATA[<p>Realmente no hay una buena explicación de qué se supone que irá en este lugar.</p>
+<p>A diferencia de nuestro blog principal (<a href="https://www.soviets-ags.org/blog">justo aquí</a>), en este se publicarán textos sin tanto rigor investigativo, o incluso aquellos que no sigan una linea política. Si algo puede ser llamado "Bien hecho" o "Íntegro", entonces probablemente no acabará aquí. Sin embargo, espero que este sea un espacio libre que fomente el deseo de expresar y comunicarse, dando una plataforma a aquello que de otra manera acabaría deshauciado.</p>]]></content:encoded>
+            <category>meta</category>
+            <category>blog</category>
+        </item>
+    </channel>
+</rss>
